@@ -1,0 +1,22 @@
+body {
+  background: #fff;
+  font-family: "PT Sans", "Open Sans", sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 26px;
+  color: #333333;
+  
+}
+
+/* new letter */
+#bottom {
+  background-image: url("../../public/bg-footer.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 0%;
+}
+#bottom .overlay {
+  padding: 60px 0px 20px 0px;
+  background: rgb(255 255 255 / 88%);
+  
+}
